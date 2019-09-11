@@ -49,6 +49,8 @@ Want to edit the site you just published? Let’s practice commits by introducin
 Let’s start with this template:
 
 ```
+# hello-world
+Hello world.
 <p>Hello World! I’m [username]. This is my website!</p>
 ```
 
